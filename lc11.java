@@ -1,6 +1,6 @@
-LC-11 Problem: Container With Most Water
-
-Code:
+//LC-11 Problem: Container With Most Water
+//Using Two Pointers Method
+//Code:
 class Solution {
     public int maxArea(int[] height) {
         //Initialize values of max, left, right 
