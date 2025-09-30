@@ -1,2 +1,2 @@
 # Leetcode-Arrays
-Code for Leetcode Arrays Problems
+Code for Leetcode Problems
